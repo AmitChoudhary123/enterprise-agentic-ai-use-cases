@@ -1,0 +1,9 @@
+use_case,domain,business_value,workflow_leverage,context_readiness,evaluation_readiness,adoption_feasibility,reuse_potential,risk_exposure,reversibility
+Customer retention intervention,Customer Success,5,5,4,4,4,5,3,4
+Procurement risk copilot,Procurement,4,4,4,3,3,4,4,3
+AI incident response coordinator,IT Operations,5,5,4,4,4,4,4,4
+Autonomous refund approval,Customer Operations,4,4,3,3,3,3,5,2
+Sales proposal assembler,Sales,4,3,4,4,5,4,2,5
+Contract clause recommendation,Legal,4,4,3,3,3,4,5,2
+Financial variance narrative,Finance,4,3,5,4,4,4,3,5
+HR policy advisor,HR,3,3,4,3,4,3,4,3
