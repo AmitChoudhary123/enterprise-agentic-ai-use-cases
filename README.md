@@ -55,6 +55,10 @@ python demo/run_demo.py
 
 Run the demo to see a ranked portfolio with recommended delivery posture: scale, pilot, incubate, or avoid automation.
 
+## Featured guidance
+
+- [Enterprise Agentic AI Adoption Playbook](docs/ENTERPRISE-AGENTIC-AI-ADOPTION-PLAYBOOK.md): 90-day model for moving agentic AI from pilot to governed adoption.
+
 ## Roadmap
 
 - Add industry-specific agentic AI use-case packs
